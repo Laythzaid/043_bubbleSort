@@ -63,9 +63,9 @@ void bubblesortArray()
     void display()
     {
     cout << endl;
-    cout << "==========================" << endl;
+    cout << "===========================" << endl;
     cout << "Sorted Array Elements" << endl;
-    cout << "==========================" << endl;
+    cout << "===========================" << endl;
     cout << endl;
     for (int j = 0; j < n; j++)
     {
